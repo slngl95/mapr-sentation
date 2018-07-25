@@ -105,8 +105,8 @@ span {
 	font-family: verdana;
 	border: 5px solid black;
 	border-top: none;
-	min-width: 1005.57px;
-	min-height: 600px;
+	min-width: 1027.57px;
+	min-height: 900.267px;
 }
 
 .qui p {
@@ -129,6 +129,7 @@ span {
 	color: white;
 	font-family: verdana;
 	width: 1000px;
+	min-height: 900.267px;
 	
 }
 
